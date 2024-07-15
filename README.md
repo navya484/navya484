@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navya Prasad</h1>
-<h3 align="center">I am a passionate student currently pursuing a Bachelor of Technology degree in Computer Science. I have always been fascinated by the world of technology and its potential to solve complex problems and improve lives. Through my academic journey and personal projects, I strive to expand my knowledge, hone my skills, and contribute meaningfully to the field of computer science.</h3>
+<h3 align="center">I am a passionate student currently pursuing a Bachelor of Technology degree in Computer Science. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navya484&label=Profile%20views&color=0e75b6&style=flat" alt="navya484" /> </p>
 
