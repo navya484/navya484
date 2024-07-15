@@ -64,3 +64,10 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/navya484/navya484/output/snake.svg" alt="Snake animation" />
+
+###
